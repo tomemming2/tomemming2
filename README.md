@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomemming2
 - I'm a Software Developer based in the Netherlands.
-- 👀I'm interested in Python, Javascript, HTML, CSS, Linux, Ansible
-- 🌱 I’m currently learning Javascript
+- 👀I'm interested in Python, PHP, Javascript, HTML, CSS, Linux, Ansible
+- 🌱 I’m currently learning the Symfony PHP framework and Javascript
 - 📫 You can reach me from my website: https://tomemming.nl
 - Or by sending me an e-mail: tom@tomemming.nl
 
