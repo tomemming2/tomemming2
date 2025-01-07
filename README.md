@@ -2,8 +2,9 @@
 - I'm a Software Developer based in the Netherlands.
 - 👀I'm interested in Python, PHP, Javascript, HTML, CSS, Linux, Ansible
 - 🌱 I’m currently learning the Symfony PHP framework and Javascript
-- 📫 You can reach me from my website: https://tomemming.nl
-- Or by sending me an e-mail: tom@tomemming.nl
+- 📫 You can reach me from my website: https://netbela.com
+- Or by sending me an e-mail: info@netbela.com
+- 
 
 <!---
 tomemming2/tomemming2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
